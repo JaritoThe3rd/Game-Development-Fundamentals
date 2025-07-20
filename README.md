@@ -4,3 +4,4 @@ Studying fundamental ideas for Unreal Engine 5 for my own product building and p
 Game design is really important especially solo game development or even team-based. It is really important to document your ideas instead of having an imagination alone.
 
 [The Last Bastion Game Deck Pitch (1).pptx](https://github.com/user-attachments/files/21332695/The.Last.Bastion.Game.Deck.Pitch.1.pptx)
+[The Last Bastion GDD.docx](https://github.com/user-attachments/files/21335758/The.Last.Bastion.GDD.docx)
