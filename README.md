@@ -19,3 +19,15 @@ Game design is really important especially solo game development or even team-ba
 
 https://github.com/user-attachments/assets/08f287ff-7619-4d26-b02b-f2ab6bd6ca51
 
+Level Design Fundamentals
+
+Level design is an important part of designing a game, and can directly affect how your players move, react, or even feel while playing a game. This content will look at level design from a game design perspective, covering the important facets of level design theory. It will overall what level design is, and the role it plays in the game industry, then move into the theory behind it. How can a level affect how a player is guided through a level or game? What controls where they go or how quickly they can move through the game? How is all this different between single and multiplayer levels? All of this answered by looking at real game levels. This content will give learners a solid foundation of level design theory that they will then further apply to future content.
+
+Learning Objectives
+1. Identify what level design is and its impact on a game designer.
+2. Define Key level design theory concepts.
+3. Demonstrate how player flow, pacing, and affordance can affect the gameplay experience.
+4. Understanding of how game design documentation in Game Design Document informs level design practice.
+5. Identify level design theory applied to real levels.
+
+   
